@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://discord.com/users/667861423598075933" target="_blank">
-        <img src="https://lanyard.cnrad.dev/api/667861423598075933" alt="Discord Status" />
+    <a href="https://discord.com/users/309378948226088970" target="_blank">
+        <img src="https://lanyard.cnrad.dev/api/309378948226088970" alt="Discord Status" />
     </a>
 </p>
 
@@ -9,7 +9,7 @@
 
 <p align="center">
     <a target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=Minssoca&show_icons=true&bg_color=181923&text_color=ffffff&icon_color=ffffff&title_color=491384&custom_title=Minssoca&border_color=000000&locale=pt-BR"
+        <img src="https://github-readme-stats.vercel.app/api?username=Lcilento19&show_icons=true&bg_color=181923&text_color=ffffff&icon_color=ffffff&title_color=491384&custom_title=Lcilento19&border_color=000000&locale=pt-BR"
             alt="GitHub Status" />
     </a>
 </p>
