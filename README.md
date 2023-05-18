@@ -9,7 +9,7 @@
 
 <p align="center">
     <a target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=Lcilento19&show_icons=true&bg_color=181923&text_color=ffffff&icon_color=ffffff&title_color=491384&custom_title=Lcilento19&border_color=000000&locale=pt-BR"
+        <img src="https://github-readme-stats.vercel.app/api?username=Lcilento&show_icons=true&bg_color=181923&text_color=ffffff&icon_color=ffffff&title_color=491384&custom_title=Lcilento19&border_color=000000&locale=pt-BR"
             alt="GitHub Status" />
     </a>
 </p>
