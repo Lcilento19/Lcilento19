@@ -4,9 +4,6 @@
     </a>
 </p>
 
-
-
-
 <p align="center">
     <a target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=Lcilento&show_icons=true&bg_color=181923&text_color=ffffff&icon_color=ffffff&title_color=491384&custom_title=Lcilento19&border_color=000000&locale=pt-BR"
@@ -16,7 +13,7 @@
 
 <div align="center" >
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-        href="https://discordapp.com/users/667861423598075933" alt="Discord">
+        href="https://discordapp.com/users/309378948226088970" alt="Discord">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         href="https://https://www.instagram.com/cilento15/" alt="Instagram">
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"
